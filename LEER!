@@ -1,0 +1,4 @@
+Para acceder al dataset, pueden descargarlo desde Kaggle
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data?select=train.csv
+
+No pude cargarlo al repositorio porque uno de los archivos csv pesa más de 100MB y git no me dejaba :/
